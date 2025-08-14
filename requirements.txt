@@ -1,0 +1,9 @@
+torch==2.4.0+rocm6.1
+torchvision==0.19.0+rocm6.1
+torchaudio==2.4.0+rocm6.1
+--extra-index-url https://download.pytorch.org/whl/rocm6.1
+ultralytics>=8.2.0
+numpy
+pandas
+opencv-python
+matplotlib
